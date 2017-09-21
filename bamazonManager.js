@@ -228,7 +228,7 @@ function updatePrice() {
 									}
 								], function (err, response) {
 									if (err) throw err;
-									console.log("\n" + itemName, "now costs $", parseFloat(newPrice).toFixed(2) + "\n");		// Display total cost
+									console.log("\n" + itemName, "now costs $" + parseFloat(newPrice).toFixed(2) + "\n");		// Display total cost
 									manageInventory();								// And start over
 								});
 						}
