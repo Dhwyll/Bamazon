@@ -9,7 +9,7 @@ mysql
 inquirer  
 console.table
 
-A video demonstration can be found [here](https://github.com/Dhwyll/Bamazon/blob/master/Screenshots%20and%20Video/Bamazon-Demonstration.mp4) in the [Screenshots and Video](https://github.com/Dhwyll/Bamazon/tree/master/Screenshots%20and%20Video) directory.
+A video demonstration can be found [here](Screenshots%20and%20Video/Bamazon-Demonstration.mp4) in the [Screenshots and Video](Screenshots%20and%20Video) directory.
 
 First, you'll want to set up the database.  Run the bamazon.sql file in your MySQL to set up the appropriate database, table, and items.
 
@@ -31,7 +31,7 @@ node bamazonManager.js
 
 You have the following options:
 
-![bamazonManager](https://raw.githubusercontent.com/Dhwyll/Bamazon/master/Screenshots%20and%20Video/bamazonManager-1.png "Bamazon Manager Console")
+![bamazonManager](Screenshots%20and%20Video/bamazonManager-1.png "Bamazon Manager Console")
 
 **View Products for Sale:**  Shows the inventory.  
 **View Low Inventory:**  Shows any items that have only 5 or less in stock.  
